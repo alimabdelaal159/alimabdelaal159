@@ -48,7 +48,7 @@
 <!-- Icons come from https://skillicons.dev — add or remove entries in the ?i= list. -->
 
 ---
-
+<!---
 ### Featured Projects
 
 | Project | Description | Stack |
@@ -69,3 +69,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alimabdelaal159&color=blueviolet&style=flat" alt="Profile views">
 </p>
+-->

@@ -53,19 +53,19 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [**project-one**](https://github.com/YOUR_USERNAME/project-one) | One sentence on what it does. | React, Docker |
-| [**project-two**](https://github.com/YOUR_USERNAME/project-two) | One sentence on what it does. | Kubernetes, Helm |
-| [**project-three**](https://github.com/YOUR_USERNAME/project-three) | One sentence on what it does. | OpenShift, Linux |
+| [**project-one**](https://github.com/alimabdelaal159/project-one) | One sentence on what it does. | React, Docker |
+| [**project-two**](https://github.com/alimabdelaal159/project-two) | One sentence on what it does. | Kubernetes, Helm |
+| [**project-three**](https://github.com/alimabdelaal159/project-three) | One sentence on what it does. | OpenShift, Linux |
 
 ---
 
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight" alt="Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alimabdelaal159&show_icons=true&hide_border=true&theme=tokyonight" alt="Stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimabdelaal159&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=alimabdelaal159&color=blueviolet&style=flat" alt="Profile views">
 </p>
